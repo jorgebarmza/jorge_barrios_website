@@ -16,8 +16,8 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi there! I'm Jorge (pronounced HOR-heh). At Google Labs, I work in applied machine learning, focusing on transforming cutting-edge generative AI research into practical applications. My passion lies in developing tools that empower people to create, innovate, and reshape the world with technology. 
+Hello there! I'm Jorge <span style="color:grey">(pronounced HOR-heh)</span>. 
 
-I'm curious, how can we leverage Strong AI to help humans flourish?
+I work in applied machine learning at Google Labs, focusing on transforming cutting-edge generative AI research into practical applications. 
 
-Tell me, how do you integrate chatbots and agents into your routine?
+For recration, I enjoy doing mathematics, delving into history, and appreciating art. Connect with me on social media @itsjorgebar.
