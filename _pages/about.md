@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: > 
-  <b>Software Engineer</b> @ <a href='https://about.google/'>Google</a> • <b>Previously:</b><a href='https://about.fb.com/news/2022/07/home-and-feeds-on-facebook/'> Facebook</a>
+  <b>Software Engineer</b> @ <a href='https://about.google/'>Google</a> • <b>Previously:</b><a href='https://about.meta.com/'> Meta</a>
 
 profile:
   align: right
