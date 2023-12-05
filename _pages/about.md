@@ -17,6 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there! I'm Jorge. <span style="color:grey">(pronounced: HOR-heh)</span> 
 
-I work on applied machine learning at <a href='https://labs.google/'>Google Labs</a>. My focus lies on transforming cutting-edge generative AI research into practical, impactful applications—to unleash humanity's creative potential.
+I work hard on applied machine learning at <a href='https://labs.google/'>Google Labs</a>. My focus lies on transforming cutting-edge generative AI research into practical, impactful applications—to unleash humanity's creative potential.
 
-For recration, I enjoy doing mathematics, delving into history, and appreciating art. Email me at `contact@jorgebar.com`,  or connect with me on social media <b>@itsjorgebar</b>.
+For recration, I enjoy doing mathematics, delving into history, and appreciating art. Jorge is no dull boy.
+
+Email: `contact@jorgebar.com`
