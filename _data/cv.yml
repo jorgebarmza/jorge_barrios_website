@@ -1,83 +1,60 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
-- title: Education
+- title: Work
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Software Engineer III (L4)
+      institution: Google
+      year: Now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+      - "Focus: Generative AI APIs."
+      - Designed and implemented core server handlers powering the <a href="https://developers.generativeai.google/">PaLM API</a>.
+      - Owned and maintained tokenization endpoints for 10+ generative models.
+    - title: Software Engineer II (L3)
+      institution: Google
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+      - "Focus: Natural-language understanding for <a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>."
+      - Built and launched multimodal content classifiers spanning 100+ languages.
+      - Wrote and deployed self-supervised pipelines that predict user behavior.
+    - title: Software Engineering Intern
+      institution: Google
+      year: 2020
+      description:
+      - "Focus: Recommender systems for <a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>."
+      - Designed and wrote a custom attention layer; ranking accuracy soared.
+      - Found and fixed a critical bug in a production deep learning library.
 
-- title: Experience
+- title: Skills
+  type: list
+  contents:
+    - <b>Programming Languages:</b> C++, Python, SQL, ML
+    - <b>Software:</b> TensorFlow, Linux, LaTeX, AWS, Git
+    - <b>Spoken Languages:</b> English, Spanish
+
+- title: Honors
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2022
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Social events lead for 2K+ nooglers
+    - year: 2020
       items: 
-        - Max Planck Medal
+        - Top GPA in graduating class
+        - ACM-ICPC Mexico finalist
+
+- title: Projects
+  type: time_table
+  contents:
+    - title: <a href="https://github.com/itsjorgebar/n-body-simulation">N-Body Simulation</a>
+      year: 2020
+      description: Built a CGI web app to run dynamic simulations of classical mechanics using numerical methods.
+    - title: <a href="https://github.com/itsjorgebar/tiger">Tiger Compiler</a>
+      year: 2020
+      description: Implemented a compiler front-end for the Tiger language; used functional programming.
+    - title: <a href="mariappchi.mx">Mariappchi</a>
+      year: 2017
+      description: Cofounded a mariachi booking app with 1K+ users; I led back-end development and UX design.
+
+
 
 - title: Academic Interests
   type: nested_list
