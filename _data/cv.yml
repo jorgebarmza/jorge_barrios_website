@@ -46,15 +46,19 @@
   contents:
     - title: <a href="https://github.com/itsjorgebar/n-body-simulation">N-Body Simulation</a>
       year: 2020
-      description: Built a CGI web app to run dynamic simulations of classical mechanics using numerical methods.
+      description: 
+        - Built a 3D celestial mechanics simulation of bodies interacting in space.
+        - Applied Newton's laws, ODE numerical integration, and WebGL rendering.
     - title: <a href="https://github.com/itsjorgebar/tiger">Tiger Compiler</a>
       year: 2020
-      description: Implemented a compiler front-end for the Tiger language; used functional programming.
+      description: 
+        - Implemented a compiler front-end for Tiger—a small imperative language.
+        - Wrote it in a functional language (ML); lexed and parsed with Lex and Yacc.
     - title: <a href="mariappchi.mx">Mariappchi</a>
       year: 2017
-      description: Cofounded a mariachi booking app with 1K+ users; I led back-end development and UX design.
-
-
+      description: 
+        - Cofounded a mariachi booking app; gathered 1K+ users in Mexico City.
+        - I led business operations, marketing, UX, and back-end development.
 
 - title: Academic Interests
   type: nested_list
