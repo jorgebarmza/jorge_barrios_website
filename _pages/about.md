@@ -21,4 +21,4 @@ I work hard on applied machine learning at <a href='https://labs.google/'>Google
 
 For recration, I enjoy doing mathematics, delving into history, and appreciating art. (Jorge is no dull boy!)
 
-Email: `contact@jorgebar.com`
+Feel free to email me (`contact@jorgebar.com`) or connect on social media `@itsjorgebar`.
