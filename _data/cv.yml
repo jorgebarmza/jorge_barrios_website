@@ -60,19 +60,21 @@
         - Cofounded a mariachi booking app; gathered 1K+ users in Mexico City.
         - I led business operations, marketing, UX, and back-end development.
 
-- title: Academic Interests
-  type: nested_list
+- title: Education
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: B.S. Computer Science
+      institution: Tecnológico de Monterrey 
+      year: 2020
+      description: 
+        - <i>Summa Cum Laude</i>
+    - title: Undergraduate Exchange Program
+      institution: Chinese University of Hong Kong
+      year: 2020
+      description: 
+        - Advanced curriculum in computer science.</i>
+    - title: Deep Learning Specialization 
+      institution: Chinese University of Hong Kong
+      year: 2018
+      description: 
+        - Five-course specialization in deep neural networks.
