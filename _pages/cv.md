@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /resume/
-title: résumé
+title: resume
 nav: true
 nav_order: 4
 cv_pdf: resume.pdf
