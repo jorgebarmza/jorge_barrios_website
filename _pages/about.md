@@ -15,10 +15,10 @@ news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello there 👋🏻 I'm Jorge. <span style="color:grey">(pronounced: HOR-heh)</span> 
+Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced: HOR-heh)</span> 
 
-I work hard on applied machine learning at <a href='https://labs.google/'>Google Labs</a>. My focus lies on leveraging cutting-edge AI research to build impactful applications 🔧
+I work hard on applied machine learning at <a href='https://labs.google/'>Google Labs</a> 🧪 My focus lies on leveraging cutting-edge AI research to build impactful applications.
 
-For recration, I enjoy doing mathematics, delving into history, and appreciating art 📖 (Jorge is no dull boy.)
+For recration, I enjoy doing mathematics, delving into history, and appreciating art 📖 (Jorge is no dull boy!)
 
-You can find me on social media `@itsjorgebar` or send an email to `contact@jorgebar.com` 📥 
+You can email me at `contact@jorgebar.com` 📥 or find me on social media `@itsjorgebar`.
