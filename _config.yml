@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Jorge 
 middle_name:
 last_name: Barrios
-email: 
+email:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
 keywords: # add your own keywords or leave empty
@@ -14,7 +14,7 @@ keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://jorgebar.com # the base hostname & protocol for your site
+url: https://itsjorgebar.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -89,7 +89,7 @@ instagram_id: itsjorgebar # your instagram id
 facebook_id: itsjorgebar # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
-contact_note: See you around!
+contact_note: See you around 🌐
 #   You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------

@@ -9,16 +9,16 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
+  address: 📍 SF Bay Area
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello there! I'm Jorge. <span style="color:grey">(pronounced: HOR-heh)</span> 
+Hello there 👋🏻 I'm Jorge. <span style="color:grey">(pronounced: HOR-heh)</span> 
 
-I work hard on applied machine learning at <a href='https://labs.google/'>Google Labs</a>. My focus lies on transforming cutting-edge generative AI research into practical, impactful applications—to unleash humanity's creative potential.
+I work hard on applied machine learning at <a href='https://labs.google/'>Google Labs</a>. My focus lies on leveraging cutting-edge AI research to build impactful applications 🔧
 
-For recration, I enjoy doing mathematics, delving into history, and appreciating art. (Jorge is no dull boy!)
+For recration, I enjoy doing mathematics, delving into history, and appreciating art 📖 (Jorge is no dull boy.)
 
-Feel free to email me (`contact@jorgebar.com`) or connect on social media `@itsjorgebar`.
+You can find me on social media `@itsjorgebar` or send an email to `contact@jorgebar.com` 📥 
