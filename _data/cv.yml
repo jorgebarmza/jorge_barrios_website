@@ -68,13 +68,13 @@
       year: 2020
       description: 
         - <i>Summa Cum Laude</i>
-    - title: Undergraduate Exchange Program
+    - title: Visiting Student
       institution: Chinese University of Hong Kong
       year: 2020
       description: 
-        - Advanced curriculum in computer science.</i>
+        - Physics and Computer Science.
     - title: Deep Learning Specialization 
-      institution: DeepLearning.AI
+      institution: Coursera
       year: 2018
       description: 
-        - Five-course specialization in deep neural networks.
+        - Architectures and Optimization.
