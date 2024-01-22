@@ -3,31 +3,31 @@
   contents:
     - title: Software Engineer III (L4)
       institution: Google
-      year: Now
+      year: 2022 - Now
       description:
-      - "Focus: Generative AI APIs."
-      - Designed and implemented core server handlers powering the <a href="https://developers.generativeai.google/">PaLM API</a>.
-      - Owned and maintained tokenization endpoints for 10+ generative models.
+      - "Focus: Generative AI for Labs (<a href='https://ai.google.dev/'>Gemini API</a>)."
+      - Launched an MVP feature per month—on microservices for public APIs.
+      - Designed, built, and owned 3 LLM tokenization endpoints.
     - title: Software Engineer II (L3)
       institution: Google
-      year: 2021
+      year: 2021 - 2022
       description:
-      - "Focus: Natural-language understanding for <a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>."
+      - "Focus: Natural-language understanding for Search Feed (<a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>)."
       - Built and launched multimodal content classifiers spanning 100+ languages.
       - Wrote and deployed self-supervised pipelines that predict user behavior.
     - title: Software Engineering Intern
       institution: Google
-      year: 2020
+      year: Summer 2020
       description:
-      - "Focus: Recommender systems for <a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>."
+      - "Focus: Recommender systems for Search Feed (<a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>)."
       - Designed and wrote a custom attention layer; ranking accuracy soared.
       - Found and fixed a critical bug in a production deep learning library.
 
 - title: Skills
   type: list
   contents:
-    - <b>Programming Languages:</b> C++, Python, SQL, ML
-    - <b>Software:</b> TensorFlow, Linux, LaTeX, AWS, Git
+    - <b>Programming Languages:</b> C++, Python, SQL, Lisp, Go
+    - <b>Software:</b> TensorFlow, Kubernetes, NoSQL, AWS, Git
     - <b>Spoken Languages:</b> English, Spanish
 
 - title: Honors
@@ -65,16 +65,16 @@
   contents:
     - title: B.S. Computer Science
       institution: Tecnológico de Monterrey 
-      year: 2020
+      year: 2016 - 2020
       description: 
-        - <i>Summa Cum Laude</i>
+        - <i>Summa Cum Laude</i>.
     - title: Visiting Student
       institution: Chinese University of Hong Kong
-      year: 2020
+      year: Spring 2020
       description: 
-        - Physics and Computer Science.
+        - Theoretical computer science.
     - title: Deep Learning Specialization 
       institution: Coursera
-      year: 2018
+      year: Fall 2018
       description: 
         - Architectures and Optimization.
