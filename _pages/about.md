@@ -19,6 +19,6 @@ Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced: HOR-heh)</s
 
 I work hard at <a href='https://labs.google/'>Google Labs</a> 🧪 building experimental tools for creators, powered by generative AI. I'm skilled in machine learning, with a broad grasp of computer science.
 
-For recration, I enjoy doing mathematics, delving into history, and appreciating art 📖 (Jorge is no dull boy.)
+For recration, I enjoy doing mathematics, studying history, and appreciating art 📖 (Jorge is no dull boy.)
 
 You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`).
