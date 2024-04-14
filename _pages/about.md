@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced: HOR-heh)</span> 
 
-I work my craft at <a href='https://labs.google/'>Google Labs</a> 🧪 where I build experimental tools for creators, powered by generative AI. I'm skilled in machine learning, with a broad grasp of computer science.
+I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building experimental tools for creators, powered by generative AI. I'm skilled in machine learning, with a broad grasp of computer science.
 
 For recration, I enjoy doing mathematics, delving into history, and appreciating art 📖 (Jorge is no dull boy.)
 
