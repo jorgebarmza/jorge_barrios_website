@@ -1,14 +1,14 @@
 - title: Work
   type: time_table
   contents:
-    - title: Software Engineer III (L4)
+    - title: Software Engineer
       institution: Google
       year: 2022 - Now
       description:
       - "Focus: Generative AI for Labs (<a href='https://ai.google.dev/'>Gemini API</a>)."
       - Launched an MVP feature per month, on microservices for public APIs.
       - Designed, built, and owned 3 LLM tokenization endpoints.
-    - title: Software Engineer II (L3)
+    - title: Software Engineer
       institution: Google
       year: 2021 - 2022
       description:
