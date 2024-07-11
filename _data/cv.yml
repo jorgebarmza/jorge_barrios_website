@@ -6,7 +6,7 @@
       year: 2022 - Now
       description:
       - "Focus: Generative AI for Labs (<a href='https://ai.google.dev/'>Gemini API</a>)."
-      - Launched an MVP feature per month—on microservices for public APIs.
+      - Launched an MVP feature per month, on microservices for public APIs.
       - Designed, built, and owned 3 LLM tokenization endpoints.
     - title: Software Engineer II (L3)
       institution: Google
@@ -14,32 +14,32 @@
       description:
       - "Focus: Natural-language understanding for Search Feed (<a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>)."
       - Built and launched multimodal content classifiers spanning 100+ languages.
-      - Wrote and deployed self-supervised pipelines that predict user behavior.
+      - Wrote self-supervised pipelines that predict user behavior.
     - title: Software Engineering Intern
       institution: Google
       year: Summer 2020
       description:
       - "Focus: Recommender systems for Search Feed (<a href='https://blog.google/products/search/introducing-google-discover/'>Discover</a>)."
-      - Designed and wrote a custom attention layer; ranking accuracy soared.
+      - Designed and wrote a custom attention layer (+0.2% accuracy).
       - Found and fixed a critical bug in a production deep learning library.
 
 - title: Skills
   type: list
   contents:
-    - <b>Programming Languages:</b> C++, Python, SQL, Lisp, Go
-    - <b>Software:</b> TensorFlow, Kubernetes, NoSQL, AWS, Git
-    - <b>Spoken Languages:</b> English, Spanish
+    - <b>Languages:</b> Python, C++, TypeScript, SQL, Go.
+    - <b>Software:</b> TensorFlow, Kubernetes, NoSQL, AWS, Git.
+    - <b>Spoken Languages:</b> English, Spanish.
 
 - title: Honors
   type: time_table
   contents:
     - year: 2022
-      items: 
-        - Social events lead for 2K+ nooglers
+      items:
+        - Social events lead for 2K+ Nooglers.
     - year: 2020
       items: 
-        - Top GPA in graduating class
-        - ACM-ICPC Mexico finalist
+        - Top GPA in graduating class.
+        - ACM-ICPC Mexico finalist.
 
 - title: Projects
   type: time_table
@@ -52,8 +52,8 @@
     - title: <a href="https://github.com/itsjorgebar/tiger">Tiger Compiler</a>
       year: 2020
       description: 
-        - Implemented a compiler front-end for Tiger—a small imperative language.
-        - Wrote it in a functional language (ML); lexed and parsed with Lex and Yacc.
+        - Implemented a compiler front-end for Tiger, a small imperative language.
+        - Programmed in ML, a functional language. Lexed and parsed with Lex and Yacc.
     - title: <a href="mariappchi.mx">Mariappchi</a>
       year: 2017
       description: 
@@ -67,7 +67,7 @@
       institution: Tecnológico de Monterrey 
       year: 2016 - 2020
       description: 
-        - <i>Summa Cum Laude</i>.
+        - Summa Cum Laude.
     - title: Visiting Student
       institution: Chinese University of Hong Kong
       year: Spring 2020
