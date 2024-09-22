@@ -19,4 +19,6 @@ Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced: HOR-heh)</s
 
 I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building experimental tools for creators, powered by generative AI. I'm a back-end specialist <span style="color:grey">(APIs, architecture, databases, machine learning)</span> and a problem-solving generalist.
 
+For recreation, I run trails, prove theorems, bake goods, and listen to stories 😄 preferably with friends.
+
 You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`).
