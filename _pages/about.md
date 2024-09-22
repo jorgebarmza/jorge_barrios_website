@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced: HOR-heh)</span> 
 
-I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building experimental tools for creators, powered by generative AI. I'm a back-end specialist <span style="color:grey">(APIs, architecture, databases, machine learning)</span> and a problem-solving generalist.
+I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building experimental tools for creators, powered by generative AI. I'm a back-end specialist <span style="color:grey">(APIs, DistSys, DBs, ML)</span> and a problem-solving generalist <span style="color:grey">(UI, debugging, collaboration)</span>.
 
 For recreation, I run trails, prove theorems, bake goods, and listen to stories 😄 preferably with friends.
 
