@@ -26,8 +26,8 @@
 - title: Skills
   type: list
   contents:
-    - <b>Languages:</b> Python, C++, TypeScript, SQL, Go.
-    - <b>Software:</b> TensorFlow, Kubernetes, NoSQL, AWS, Git.
+    - <b>Languages:</b> Python, C++, JavaScript, SQL, Go.
+    - <b>Software:</b> TensorFlow, Postgres, React, AWS, Git.
     - <b>Spoken Languages:</b> English, Spanish.
 
 - title: Honors
