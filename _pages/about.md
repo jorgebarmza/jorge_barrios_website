@@ -19,6 +19,6 @@ Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced: HOR-heh)</s
 
 I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building new GenAI tools for creators. I'm a full-stack developer specializing in back-end <span style="color:grey">(APIs, Distributed Systems, Databases, ML)</span>. Mindset: strong fundamentals, clear analysis, fast execution. 
 
-For recreation, I run trails, prove theorems, bake goods, and listen to stories 🍪 preferably with friends.
+For recreation, I run trails, prove theorems, bake goods, and listen to stories 🌈 preferably with friends.
 
 You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`).
