@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there 👋🏻 I'm Jorge <span style="color:grey">(pronounced HOR-heh)</span> 
 
-I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building new GenAI tools for creators. I'm a full-stack developer specializing in back-end <span style="color:grey">(APIs, Distributed Systems, Databases, ML)</span>. Core principles: clarity, purpose, and speed.
+I work at <a href='https://labs.google/'>Google Labs</a> 🧪 building new GenAI tools for creators. I'm a full-stack developer specializing in back-end <span style="color:grey">(APIs, Distributed Systems, Databases, ML)</span>. My core principles: clarity, purpose, and speed.
 
 For recreation, I run trails, prove theorems, bake goods, and listen to stories 🌈 preferably with friends.
 
