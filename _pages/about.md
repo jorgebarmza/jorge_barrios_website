@@ -21,4 +21,4 @@ I work at <a href='https://labs.google/'>Google Labs</a>  building new GenAI too
 
 For recreation ⛰️ I run trails, prove theorems, share stories with friends, and appreciate each breath. 
 
-You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`).
+You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`) 📲
