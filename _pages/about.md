@@ -19,6 +19,6 @@ Hello there 👋🏼 I'm Jorge <span style="color:grey">(pronounced HOR-heh)</sp
 
 I work at <a href='https://labs.google/'>Google Labs</a>  building new GenAI tools for creators. I'm a backend developer 👨🏻‍💻 specializing in machine learning applications. My favorite thing in the world is collaborating to create products that bring people joy. 
 
-For recreation 🌈 I run trails, study math, share stories with friends, and donate to effective charities.
+For recreation 🌈 I run trails, study math, share stories with friends, and donate to charity.
 
 You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`) 📲
