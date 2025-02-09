@@ -3,8 +3,10 @@
 ---
 @charset "utf-8";
 
-// Dimensions
+// // Dimensions
 $max-content-width: {{ site.max_width }};
+
+@use "sass:color";
 
 @import
   "variables",
