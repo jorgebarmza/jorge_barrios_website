@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there 👋🏼 I'm Jorge <span style="color:grey">(pronounced HOR-heh)</span> 
 
-I work at <a href='https://labs.google/'>Google Labs</a>  building new GenAI tools for creators. I'm a  generalist 👨🏻‍💻 with a focus on applied machine learning. My favorite thing in the world is collaborating to create products that bring people joy. 
+I work at <a href='https://labs.google/'>Google Labs</a>  building new GenAI tools for creators. I'm a  generalist 👨🏻‍💻 with strong CS fundamentals and a deep passion for applying ML to real-world problems. LLM-powered agents have me hooked! 
 
 For recreation 🌈 I run trails, study math, share stories with friends, and give back through charity.
 
