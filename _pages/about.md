@@ -17,8 +17,8 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hello there 👋🏼 I'm Jorge <span style="color:grey">(pronounced HOR-heh)</span> 
 
-I work at <a href='https://labs.google/'>Google Labs</a>  building new GenAI tools for creators. I'm a  generalist 👨🏻‍💻 with strong CS fundamentals and a deep passion for applying ML to real-world problems. LLM-powered agents have me hooked! 
+I work at <a href='https://labs.google/'>Google Labs</a>, building new GenAI tools for creators. I'm a generalist SWE 👨🏻‍💻 with a deep interest in ML-powered language applications. My favorite thing in the world is collaborating to build products that bring people joy. (Currently obsessed with LLM agents!)
 
-For recreation 🌈 I run trails, study math, share stories with friends, and give back through charity.
+For recreation 🌈 I run trails, study math, share stories with friends, and appreciate each breath.
 
-You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`) 📲
+You can reach me via email (`contact@jorgebar.com`) or social media (`@itsjorgebar`) 📲create 
